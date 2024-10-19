@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tham King Joe</h1>
 <h3 align="center">🌟 Student at Asia Pacific University | Aspiring Web3 Developer | Digital Marketing Specialist | CTF Competitor | SMMA Owner | Blockchain Enthusiast 🌟</h3>
 
-- 🔭 I’m currently working on **My Website Portfolio**
+- 🔭 I’m currently working on **My Website Portfolio** notjohn04.eth.limo
 
 - 🌱 I’m currently learning **Solidity, Ethereum**
 
