@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Website Portfolio** [notjohn04.eth.limo](https://notjohn04.eth.limo)
 
-- 🌱 I’m currently learning **Solidity, Ethereum**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NotJohn04](https://github.com/NotJohn04)
 
